@@ -42,12 +42,8 @@ namespace XamarinVideoRecorder.iOS.CustomRenderers
         public override void ViewDidLoad()
         {
             base.ViewDidLoad();
-
         }
-
-
-
-
+        
         public override void ViewDidAppear(bool animated)
         {
             base.ViewDidAppear(animated);
